@@ -58,20 +58,16 @@ Si prefieres DSN ODBC, crea un DSN en el Administrador de Orígenes de Datos ODB
 🏃 Ejecución
 Para correr en desarrollo:
 
-bash
-Copiar código
 npm run dev
 Deberías ver en la terminal:
 
-css
-Copiar código
+
 🔌 DB Configuración: { modo: 'Directa', host: 'localhost', db: 'MuOnline' }
 Servidor corriendo en http://localhost:3000
 🔍 Prueba de conexión
 Abre en el navegador:
 
-bash
-Copiar código
+
 http://localhost:3000/api
 Respuesta esperada:
 
