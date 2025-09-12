@@ -72,7 +72,6 @@ http://localhost:3000/api
 Respuesta esperada:
 
 json
-Copiar código
 {
   "message": "Conexión OK",
   "firstUser": [
@@ -80,8 +79,6 @@ Copiar código
   ]
 }
 📂 Estructura del Proyecto
-bash
-Copiar código
 src/
 ├─ config/
 │  └─ db.ts            # Configuración de Knex + MSSQL
